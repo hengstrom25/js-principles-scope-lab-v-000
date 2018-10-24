@@ -2,4 +2,6 @@
 
 var customerName = 'bob';
 
-console.log
+function upperCaseCustomerName(customerName) {
+  
+}
