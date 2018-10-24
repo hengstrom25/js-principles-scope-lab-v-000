@@ -2,6 +2,4 @@
 
 var customerName = 'bob';
 
-function upperCaseCustomerName(str) {
-  str.toUpperCase(customerName);
-}
+console.log
